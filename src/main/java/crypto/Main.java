@@ -11,9 +11,9 @@ import org.bouncycastle.util.encoders.Hex;
 public class Main {
 
 	/**
-	 * java.crypto パッケージを使わないシンプルなサンプル。
+	 * java.crypto パッケージ使ったサンプル。
 	 * 
-	 * https://www.bouncycastle.org/specifications.html
+	 * https://pgbox.grush.jp/ref/java/core/security/crypt.html
 	 * 
 	 * @param args
 	 * @throws Exception
